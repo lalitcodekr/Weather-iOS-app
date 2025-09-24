@@ -29,6 +29,6 @@ A simple weather app built using **SwiftUI** to practice:
 
 This app was built for learning purposes to enhance my iOS development skills. Feel free to explore the code and suggest improvements!
 
-### 🔗 Connect with Me
+### 🔗 Checkout my project here... ☺️
 
 [Connect on LinkedIn](https://www.linkedin.com/posts/p-lalit-kr_ios-swiftui-swift-activity-7344622066182045698-1nHY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEphUCABmksQNkii_jCVDvl08dxfY1S-of0)
